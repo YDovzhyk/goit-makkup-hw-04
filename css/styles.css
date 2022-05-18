@@ -331,9 +331,6 @@ ul, ol {
     cursor: pointer;
 }
 .card-icon-decor {
-    width: 170px;
-    height: 92px;
-
     fill: var(--icon-color);
 }
 .card-client:hover {
