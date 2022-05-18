@@ -307,8 +307,6 @@ ul, ol {
 }
 .social-decor {
     margin-top: 4px;
-    width: 20px;
-    height: 20px;
     fill: var(--icon-color);
 }
 .social-list:hover {
@@ -404,8 +402,6 @@ ul, ol {
 }
 .footer-social-decor {
     margin-top: 7px;
-    width: 20px;
-    height: 20px;
     fill: var(--icon-color);
 }
 .footer-social-list:hover {
